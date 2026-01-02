@@ -22,9 +22,9 @@ function App() {
        {/* <Apptt/> */}
         {/* <WeatherOujda/> */}
         {/* <Weathertt/> */}
-        {/* <Home/> */}
+        <Home/>
         {/* <Hmes/> */}
-        <OujdaWeather/>
+        {/* <OujdaWeather/> */}
                          
       </div>
   );
